@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+  
 int x, y, sum, product, difference;
 
 float quotient;
